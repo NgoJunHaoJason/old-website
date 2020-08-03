@@ -1,2 +1,4 @@
-# old-website
-Old website (raw HTML, CSS and Javascript)
+# my old website
+
+- static webpages (GitHub pages)
+- created using raw HTML, CSS and Javascript
